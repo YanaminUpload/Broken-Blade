@@ -2,8 +2,8 @@
 Roblox Script Broken Blade
 
 Feature
-- Auto Sky Spine (Active Manual Auto Play in NPC)
 - Auto Leveling Fastest
+- Auto Sky Spine (Active Manual Auto Play in NPC)
 - Auto Farm Mob (Selected)
 - Auto Farm Bos (Selected)
 - Auto Farm Demon (Selected & Active Manual Auto Summon)
@@ -20,6 +20,10 @@ Feature
 - Disable 3D Rendering
 - Auto Reconnect
 - Config (Not Working)
+
+#update
+- Auto Farm Mob (add Space Invader)
+- Weapon Teleport (Yamato)
 
 Execute
 
