@@ -22,7 +22,7 @@ Feature
 - Config (Not Working)
 
 #update
-- Auto Farm Mob (add Space Invader)
+- Auto Farm Bos (add Space Invader)
 - Weapon Teleport (Yamato)
 
 Execute
