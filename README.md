@@ -14,6 +14,7 @@ Feature
 - Map Teleport
 - Master Teleport
 - Weapon Teleport
+- Other NPC
 - Anti AFK
 - Anti Game Play Pause
 - FPS Boost
