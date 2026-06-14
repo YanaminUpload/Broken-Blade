@@ -9,6 +9,7 @@ Feature
 - Auto Farm Demon (Selected & Active Manual Auto Summon)
 - Auto Skill Z,X,C,V,R
 - Teleport Altar
+- Auto Unlock Altar
 - Auto Chomusuke
 - Auto Gubby
 - Map Teleport
