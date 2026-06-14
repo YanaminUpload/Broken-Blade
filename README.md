@@ -29,4 +29,4 @@ Feature
 
 Execute
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YanaminUpload/Broken-Blade/refs/heads/main/main.lua))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YanaminUpload/Broken-Blade/refs/heads/main/main.lua"))()
