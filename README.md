@@ -21,6 +21,7 @@ Feature
 - FPS Boost
 - Disable 3D Rendering
 - Auto Reconnect
+- Hop Low Server
 - Config (Not Working)
 
 #update
