@@ -19,15 +19,15 @@ Feature
 - Anti AFK
 - Anti Game Play Pause
 - FPS Boost
+- Hop Low Server
 - Disable 3D Rendering
 - Auto Reconnect
 - Hop Low Server
 - Config (Not Working)
 
 #update
-- Auto Farm Bos (add Space Invader)
-- Weapon Teleport (Yamato)
+- Rework FPS Boost
+- Add Reduce Map
 
 Execute
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YanaminUpload/Broken-Blade/refs/heads/main/main.lua"))()
