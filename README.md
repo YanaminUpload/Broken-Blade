@@ -31,3 +31,6 @@ Feature
 
 Execute
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YanaminUpload/Broken-Blade/refs/heads/main/main.lua"))()
+
+Example Feature
+<img width="562" height="443" alt="image" src="https://github.com/user-attachments/assets/f54e16c5-e416-4430-9795-fc82b3647da6" />
