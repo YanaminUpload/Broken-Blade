@@ -3,7 +3,7 @@ Roblox Script Broken Blade
 
 Feature
 - Auto Leveling Fastest
-- Auto Sky Spine (Active Manual Auto Play in NPC)
+- Auto Sky Spire (Active Manual Auto Play in NPC)
 - Auto Farm Mob (Selected)
 - Auto Farm Bos (Selected)
 - Auto Farm Demon (Selected & Active Manual Auto Summon)
@@ -19,6 +19,7 @@ Feature
 - Anti AFK
 - Anti Game Play Pause
 - FPS Boost
+- Reduce Map
 - Hop Low Server
 - Disable 3D Rendering
 - Auto Reconnect
@@ -26,8 +27,8 @@ Feature
 - Config (Not Working)
 
 #update
-- Rework FPS Boost
-- Add Reduce Map
+- Sky Spire Still Works 200
+- Add Other NPC *Ascension
 
 Execute
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YanaminUpload/Broken-Blade/refs/heads/main/main.lua"))()
