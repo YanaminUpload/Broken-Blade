@@ -3,7 +3,7 @@ Roblox Script Broken Blade
 
 Feature
 - Auto Leveling Fastest
-- Auto Sky Spire (Active Manual Auto Play in NPC)
+- Auto Sky Spire 1-200 (Active Manual Auto Play in NPC)
 - Auto Farm Mob (Selected)
 - Auto Farm Bos (Selected)
 - Auto Farm Demon (Selected & Active Manual Auto Summon)
@@ -27,8 +27,9 @@ Feature
 - Config (Not Working)
 
 #update
-- Sky Spire Still Works 200
-- Add Other NPC *Ascension
+- Add Auto Broken Expanse
+- Add Other NPC *Infinity, Ruby Shop
+- Add Weapon *Wyvern Ignition
 
 Execute
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YanaminUpload/Broken-Blade/refs/heads/main/main.lua"))()
