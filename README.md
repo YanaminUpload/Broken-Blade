@@ -24,15 +24,17 @@ Feature
 - Disable 3D Rendering
 - Auto Reconnect
 - Hop Low Server
-- Config (Not Working)
+- Config (Auto Save, Auto Load)
 
 #update
-- Add Auto Broken Expanse
+- Add Auto Broken Expanse + Select Difficult
 - Add Other NPC *Infinity, Ruby Shop
 - Add Weapon *Wyvern Ignition
 
 Execute
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YanaminUpload/Broken-Blade/refs/heads/main/main.lua"))()
+script_key="YOUR_SCRIPT_KEY"
+loadstring(game:HttpGet("https://luaegis.net/scripts/v4/loaders/49806d6a-1228-4760-89e3-0b4a4b6f3840.lua"))()
 
 Example Feature <br>
-<img width="562" height="443" alt="image" src="https://github.com/user-attachments/assets/f54e16c5-e416-4430-9795-fc82b3647da6" />
+<img width="917" height="744" alt="image" src="https://github.com/user-attachments/assets/0be4e9f5-e248-4359-9958-57038131b753" />
+
