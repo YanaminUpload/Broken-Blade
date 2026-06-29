@@ -40,3 +40,5 @@ loadstring(game:HttpGet("https://luaegis.net/scripts/v4/loaders/49806d6a-1228-47
 Example Feature <br>
 <img width="917" height="744" alt="image" src="https://github.com/user-attachments/assets/0be4e9f5-e248-4359-9958-57038131b753" />
 
+Discord
+https://discord.gg/muJEdfETm
