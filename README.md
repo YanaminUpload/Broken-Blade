@@ -32,7 +32,8 @@ Feature
 - Add Weapon *Wyvern Ignition
 
 Execute <br>
-```script_key="YOUR_SCRIPT_KEY"
+```
+script_key="YOUR_SCRIPT_KEY"
 loadstring(game:HttpGet("https://luaegis.net/scripts/v4/loaders/49806d6a-1228-4760-89e3-0b4a4b6f3840.lua"))()
 ```
 
